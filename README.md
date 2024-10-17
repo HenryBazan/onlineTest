@@ -41,10 +41,10 @@ Under Compression Format, select Disabled instead of Gzip or Brotli.)
 
 5. Enable GitHub Pages
 
-    Go to your repository on the GitHub website (it will be located at https://github.com/<username>/<repository-name>).
+    Go to your repository on the GitHub website (it will be located at https://github.com/username/repository-name).
     Click on the Settings tab in your repository.
     Scroll down to the Pages section (on the left menu or under "Code and automation").
     Under Source, select main branch and the root (/) directory, or you can select docs if you want to place your build files in a docs folder.
     Click Save.
 
-6. To access the game you need to follow this convention: "https://<username>.github.io/<repository-name>/"
+6. To access the game you need to follow this convention: https://username.github.io/repository-name/
